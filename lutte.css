@@ -1,7 +1,7 @@
 body{
 font-size: 1em;
 font-family : Verdana, Verdana, Geneva, sans-serif;
-background: #FFABC0;
+background: #DA48E3;
 display: flex;
 }
 
@@ -20,7 +20,7 @@ min-width: 55vw;
 max-width: 65vw;
 letter-spacing: .3rem;
 position: fixed;
-background: #FFABC0;
+background: #DA48E3;
 }
 .titre a{
 text-decoration: none;
@@ -50,8 +50,8 @@ justify-content: flex-start;
 height: 90vh;
 overflow: scroll;
 display: flex;
-background: red;
-box-shadow: 0px 0px 10px 20px red;
+background: #1D995B;
+box-shadow: 0px 0px 10px 20px #1D995B;
 }
 .chronologie p{
 padding-top: 0px;
@@ -75,9 +75,9 @@ width: 60%;
 
 }
 
-.deux{
+.deux, .quatre, .six{
 display: flex;
-width: 60%;
+width: 80%;
 align-self: flex-end;
 }
 .trois p{
