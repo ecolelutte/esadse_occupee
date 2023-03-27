@@ -85,7 +85,7 @@ width: 60%;
 
 }
 
-.deux, .quatre, .six{
+.deux, .quatre, .six, .huit{
 display: flex;
 width: 80%;
 align-self: flex-end;
