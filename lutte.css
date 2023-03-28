@@ -84,7 +84,10 @@ display: flex;
 width: 60%;
 
 }
-
+.un, .trois , .cinq , .sept{
+width: 80%;
+display: flex;
+}
 .deux, .quatre, .six, .huit{
 display: flex;
 width: 80%;
